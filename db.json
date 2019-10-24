@@ -1,5 +1,1 @@
-{
-  "response": [
-    { "status": "ko", "inputName": "email", "msg": "test message" }
-  ]
-}
+{ "status": "ko", "inputName": "email", "msg": "test message" }
