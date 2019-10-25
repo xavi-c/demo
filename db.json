@@ -1,1 +1,5 @@
-{ "status": "ko", "inputName": "email", "msg": "test message" }
+{
+	"validationResponse:": [
+		{ "status": "ko", "inputName": "email", "msg": "test message" }
+	]
+}
