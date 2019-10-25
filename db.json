@@ -1,5 +1,5 @@
 {
 	"validationResponse": [
-		{ "status": "ko", "inputName": "password", "msg": "test psw message" }
+		{ "status": "ko", "inputName": "", "msg": "generic error message" }
 	]
 }
