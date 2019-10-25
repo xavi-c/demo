@@ -1,5 +1,5 @@
 {
 	"validationResponse": [
-		{ "status": "ko", "inputName": "", "msg": "generic error message" }
+		{ "status": "ok", "urlRedirect": "https://www.uvinum.com" }
 	]
 }
